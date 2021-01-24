@@ -27,42 +27,42 @@ This project use Entity Framework Migrations to keep consistency between the dom
 Vue JS + Asp.net Core 3.1 template by [Alexandre Malavasi](https://www.linkedin.com/in/alexandremalavasi/).
 
 ## Autor
-[Tácito Viero](mailto:tacito.viero@gmail.com).
+[TÃ¡cito Viero](mailto:tacito.viero@gmail.com).
 
-#Desafio
+# Desafio
 
-Implementar um sistema de controle de conta corrente bancária, processando solicitações de depósito, resgates e pagamentos. Um ponto extra seria rentabilizar o dinheiro parado em conta de um dia para o outro como uma conta corrente remunerada.
+Implementar um sistema de controle de conta corrente bancÃ¡ria, processando solicitaÃ§Ãµes de depÃ³sito, resgates e pagamentos. Um ponto extra seria rentabilizar o dinheiro parado em conta de um dia para o outro como uma conta corrente remunerada.
 
-##Como
+## Como
 
-Criar um app de uma única página contendo informações do extrato da conta e os botões das ações esperadas (depósitos, retiradas e pagamentos). Mostrar também o histórico da conta.
+Criar um app de uma Ãºnica pÃ¡gina contendo informaÃ§Ãµes do extrato da conta e os botÃµes das aÃ§Ãµes esperadas (depÃ³sitos, retiradas e pagamentos). Mostrar tambÃ©m o histÃ³rico da conta.
 
-Não precisa ser nada mega complexo e tampouco se preocupar com design e layout.
+NÃ£o precisa ser nada mega complexo e tampouco se preocupar com design e layout.
 
-##Tecnologias e arquitetura
+## Tecnologias e arquitetura
 
 A tecnologia e arquitetura utilizadas podem ser escolhidas pelo participante, sendo recomendadas as possibilidades abaixo:
 
 Usando C# + ASP.Net Core + MySQL
-Arquitetura orientada a domínio: DDD
+Arquitetura orientada a domÃ­nio: DDD
 
-##O que será avaliado
+## O que serÃ¡ avaliado
 
-Capacidade de “se virar” e “Get shit done”;
-Lógica, organização e clareza de código;
+Capacidade de â€œse virarâ€ e â€œGet shit doneâ€;
+LÃ³gica, organizaÃ§Ã£o e clareza de cÃ³digo;
 ReadMe;
-Arquitetura da solução;
+Arquitetura da soluÃ§Ã£o;
 Cobertura de testes;
-Correção das informações financeiras.
+CorreÃ§Ã£o das informaÃ§Ãµes financeiras.
 
-##Interessante, mas não fundamental
+## Interessante, mas nÃ£o fundamental
 Guardar os dados em um banco de dados usando um ORM.
-Preocupação com segurança (apenas um teste);
+PreocupaÃ§Ã£o com seguranÃ§a (apenas um teste);
 
-##Entrega 
-Mandar o link do repositório com o código.
+## Entrega 
+Mandar o link do repositÃ³rio com o cÃ³digo.
 
-##Links úteis:
+## Links Ãºteis:
 
 https://www.devmedia.com.br/introducao-ao-ddd-em-net/32724
 
